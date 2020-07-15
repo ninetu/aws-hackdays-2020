@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+greengrass/log
+greengrass/certs
+greengrass/config
+.env
